@@ -1,0 +1,2 @@
+# XHGInfiniteScrollVie
+一个ScrollVie实现的可水平,竖直方向无限循环滚动的图片轮播器
